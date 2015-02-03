@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\15.AgeAafterTenYears\bin\Debug\15.AgeAafterTenYears.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\15.AgeAafterTenYears\bin\Debug\15.AgeAafterTenYears.exe
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\15.AgeAafterTenYears\bin\Debug\15.AgeAafterTenYears.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\15.AgeAafterTenYears\obj\Debug\15.AgeAafterTenYears.exe
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\15.AgeAafterTenYears\obj\Debug\15.AgeAafterTenYears.pdb

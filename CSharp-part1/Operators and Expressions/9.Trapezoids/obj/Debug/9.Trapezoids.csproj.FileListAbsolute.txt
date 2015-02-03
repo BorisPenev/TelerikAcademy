@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\9.Trapezoids\bin\Debug\9.Trapezoids.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\9.Trapezoids\bin\Debug\9.Trapezoids.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\9.Trapezoids\bin\Debug\9.Trapezoids.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\9.Trapezoids\obj\Debug\9.Trapezoids.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\9.Trapezoids\obj\Debug\9.Trapezoids.pdb

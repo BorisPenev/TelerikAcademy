@@ -1,0 +1,6 @@
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\14.ASCIITable\bin\Debug\14.ASCIITable.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\14.ASCIITable\bin\Debug\14.ASCIITable.exe
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\14.ASCIITable\bin\Debug\14.ASCIITable.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\14.ASCIITable\obj\Debug\14.ASCIITable.csprojResolveAssemblyReference.cache
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\14.ASCIITable\obj\Debug\14.ASCIITable.exe
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\14.ASCIITable\obj\Debug\14.ASCIITable.pdb

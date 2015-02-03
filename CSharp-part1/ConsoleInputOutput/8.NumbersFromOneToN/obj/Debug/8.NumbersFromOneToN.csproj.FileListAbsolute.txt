@@ -1,0 +1,1 @@
+F:\MS_VS_projects_CShar\CSharp-part1\ConsoleInputOutput\8.NumbersFromOneToN\bin\Debug\8.NumbersFromOneToN.exe.config

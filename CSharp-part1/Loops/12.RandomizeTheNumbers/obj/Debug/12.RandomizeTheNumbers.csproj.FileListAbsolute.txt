@@ -1,0 +1,6 @@
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\12.RandomizeTheNumbers\bin\Debug\12.RandomizeTheNumbers.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\12.RandomizeTheNumbers\obj\Debug\12.RandomizeTheNumbers.csprojResolveAssemblyReference.cache
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\12.RandomizeTheNumbers\bin\Debug\12.RandomizeTheNumbers.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\12.RandomizeTheNumbers\bin\Debug\12.RandomizeTheNumbers.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\12.RandomizeTheNumbers\obj\Debug\12.RandomizeTheNumbers.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\12.RandomizeTheNumbers\obj\Debug\12.RandomizeTheNumbers.pdb

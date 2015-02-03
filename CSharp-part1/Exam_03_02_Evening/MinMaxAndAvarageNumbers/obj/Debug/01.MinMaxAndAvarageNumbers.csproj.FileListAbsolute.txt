@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\Exam_03_02_Evening\MinMaxAndAvarageNumbers\bin\Debug\MinMaxAndAvarageNumbers.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\Exam_03_02_Evening\MinMaxAndAvarageNumbers\bin\Debug\MinMaxAndAvarageNumbers.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Exam_03_02_Evening\MinMaxAndAvarageNumbers\bin\Debug\MinMaxAndAvarageNumbers.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Exam_03_02_Evening\MinMaxAndAvarageNumbers\obj\Debug\MinMaxAndAvarageNumbers.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Exam_03_02_Evening\MinMaxAndAvarageNumbers\obj\Debug\MinMaxAndAvarageNumbers.pdb

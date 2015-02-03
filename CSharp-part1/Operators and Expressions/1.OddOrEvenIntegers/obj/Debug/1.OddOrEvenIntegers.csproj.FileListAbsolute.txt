@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\1.OddOrEvenIntegers\bin\Debug\1.OddOrEvenIntegers.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\1.OddOrEvenIntegers\bin\Debug\1.OddOrEvenIntegers.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\1.OddOrEvenIntegers\bin\Debug\1.OddOrEvenIntegers.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\1.OddOrEvenIntegers\obj\Debug\1.OddOrEvenIntegers.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\1.OddOrEvenIntegers\obj\Debug\1.OddOrEvenIntegers.pdb

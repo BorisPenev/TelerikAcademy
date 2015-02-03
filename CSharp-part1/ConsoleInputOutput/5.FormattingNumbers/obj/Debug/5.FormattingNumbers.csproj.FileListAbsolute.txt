@@ -1,0 +1,1 @@
+F:\MS_VS_projects_CShar\CSharp-part1\ConsoleInputOutput\5.FormattingNumbers\bin\Debug\5.FormattingNumbers.exe.config

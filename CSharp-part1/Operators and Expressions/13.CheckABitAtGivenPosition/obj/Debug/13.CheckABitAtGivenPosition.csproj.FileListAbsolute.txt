@@ -1,0 +1,8 @@
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\13.CheckABitAtGivenPosition\bin\Debug\12.ExtractBitFromInteger.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\13.CheckABitAtGivenPosition\bin\Debug\12.ExtractBitFromInteger.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.csprojResolveAssemblyReference.cache
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.pdb

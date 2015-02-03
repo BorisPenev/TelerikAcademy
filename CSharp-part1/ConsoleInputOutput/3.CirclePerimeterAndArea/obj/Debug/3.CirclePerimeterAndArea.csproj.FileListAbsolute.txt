@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\ConsoleInputOutput\3.CirclePerimeterAndArea\bin\Debug\3.CirclePerimeterAndArea.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\ConsoleInputOutput\3.CirclePerimeterAndArea\bin\Debug\3.CirclePerimeterAndArea.exe
+F:\MS_VS_projects_CShar\CSharp-part1\ConsoleInputOutput\3.CirclePerimeterAndArea\bin\Debug\3.CirclePerimeterAndArea.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\ConsoleInputOutput\3.CirclePerimeterAndArea\obj\Debug\3.CirclePerimeterAndArea.exe
+F:\MS_VS_projects_CShar\CSharp-part1\ConsoleInputOutput\3.CirclePerimeterAndArea\obj\Debug\3.CirclePerimeterAndArea.pdb

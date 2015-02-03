@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\4.UnicodeCharacter\bin\Debug\4.UnicodeCharacter.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\4.UnicodeCharacter\bin\Debug\4.UnicodeCharacter.exe
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\4.UnicodeCharacter\bin\Debug\4.UnicodeCharacter.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\4.UnicodeCharacter\obj\Debug\4.UnicodeCharacter.exe
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\4.UnicodeCharacter\obj\Debug\4.UnicodeCharacter.pdb

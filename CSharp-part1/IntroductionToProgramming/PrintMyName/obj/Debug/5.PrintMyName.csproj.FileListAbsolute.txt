@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\PrintMyName\bin\Debug\PrintMyName.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\PrintMyName\bin\Debug\PrintMyName.exe
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\PrintMyName\bin\Debug\PrintMyName.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\PrintMyName\obj\Debug\PrintMyName.exe
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\PrintMyName\obj\Debug\PrintMyName.pdb

@@ -1,0 +1,6 @@
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.csprojResolveAssemblyReference.cache
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.pdb

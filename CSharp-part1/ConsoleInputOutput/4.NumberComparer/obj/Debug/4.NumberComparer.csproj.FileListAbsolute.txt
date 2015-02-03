@@ -1,0 +1,1 @@
+F:\MS_VS_projects_CShar\CSharp-part1\ConsoleInputOutput\4.NumberComparer\bin\Debug\4.NumberComparer.exe.config

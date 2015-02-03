@@ -1,0 +1,6 @@
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\IntroductionToProgramming\bin\Debug\IntroductionToProgramming.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\IntroductionToProgramming\bin\Debug\IntroductionToProgramming.exe
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\IntroductionToProgramming\bin\Debug\IntroductionToProgramming.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\IntroductionToProgramming\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\IntroductionToProgramming\obj\Debug\IntroductionToProgramming.exe
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\IntroductionToProgramming\obj\Debug\IntroductionToProgramming.pdb

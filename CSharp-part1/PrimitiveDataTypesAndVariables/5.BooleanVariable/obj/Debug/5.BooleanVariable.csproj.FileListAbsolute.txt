@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\5.BooleanVariable\bin\Debug\5.BooleanVariable.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\5.BooleanVariable\bin\Debug\5.BooleanVariable.exe
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\5.BooleanVariable\bin\Debug\5.BooleanVariable.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\5.BooleanVariable\obj\Debug\5.BooleanVariable.exe
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\5.BooleanVariable\obj\Debug\5.BooleanVariable.pdb

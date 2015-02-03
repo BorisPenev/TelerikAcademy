@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\16.BitsExchangeAdvanced\bin\Debug\16.BitsExchangeAdvanced.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\16.BitsExchangeAdvanced\bin\Debug\16.BitsExchangeAdvanced.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\16.BitsExchangeAdvanced\bin\Debug\16.BitsExchangeAdvanced.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\16.BitsExchangeAdvanced\obj\Debug\16.BitsExchangeAdvanced.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\16.BitsExchangeAdvanced\obj\Debug\16.BitsExchangeAdvanced.pdb

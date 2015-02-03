@@ -1,0 +1,6 @@
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\08.CatalanNumber\bin\Debug\08.CatalanNumber.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\08.CatalanNumber\bin\Debug\08.CatalanNumber.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\08.CatalanNumber\bin\Debug\08.CatalanNumber.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\08.CatalanNumber\obj\Debug\08.CatalanNumber.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\08.CatalanNumber\obj\Debug\08.CatalanNumber.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\08.CatalanNumber\obj\Debug\08.CatalanNumber.csprojResolveAssemblyReference.cache

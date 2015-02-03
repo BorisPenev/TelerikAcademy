@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\8.SquareRoot\bin\Debug\8.SquareRoot.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\8.SquareRoot\bin\Debug\8.SquareRoot.exe
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\8.SquareRoot\bin\Debug\8.SquareRoot.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\8.SquareRoot\obj\Debug\8.SquareRoot.exe
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\8.SquareRoot\obj\Debug\8.SquareRoot.pdb

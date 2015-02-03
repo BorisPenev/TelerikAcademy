@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\09.MatrixOfNumber\bin\Debug\09.MatrixOfNumber.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\09.MatrixOfNumber\bin\Debug\09.MatrixOfNumber.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\09.MatrixOfNumber\bin\Debug\09.MatrixOfNumber.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\09.MatrixOfNumber\obj\Debug\09.MatrixOfNumber.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\09.MatrixOfNumber\obj\Debug\09.MatrixOfNumber.pdb

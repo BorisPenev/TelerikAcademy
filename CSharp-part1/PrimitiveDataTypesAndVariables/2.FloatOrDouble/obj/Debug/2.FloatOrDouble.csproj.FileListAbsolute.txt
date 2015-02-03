@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\2.FloatOrDouble\bin\Debug\2.FloatOrDouble.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\2.FloatOrDouble\bin\Debug\2.FloatOrDouble.exe
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\2.FloatOrDouble\bin\Debug\2.FloatOrDouble.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\2.FloatOrDouble\obj\Debug\2.FloatOrDouble.exe
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\2.FloatOrDouble\obj\Debug\2.FloatOrDouble.pdb

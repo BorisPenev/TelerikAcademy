@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\8.PrimeNumberCheck\bin\Debug\8.PrimeNumberCheck.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\8.PrimeNumberCheck\bin\Debug\8.PrimeNumberCheck.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\8.PrimeNumberCheck\bin\Debug\8.PrimeNumberCheck.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\8.PrimeNumberCheck\obj\Debug\8.PrimeNumberCheck.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\8.PrimeNumberCheck\obj\Debug\8.PrimeNumberCheck.pdb

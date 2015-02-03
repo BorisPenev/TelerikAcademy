@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\04.PrintADeckOfFiftyTwoCards\bin\Debug\04.PrintADeckOfFiftyTwoCards.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\04.PrintADeckOfFiftyTwoCards\bin\Debug\04.PrintADeckOfFiftyTwoCards.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\04.PrintADeckOfFiftyTwoCards\bin\Debug\04.PrintADeckOfFiftyTwoCards.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\04.PrintADeckOfFiftyTwoCards\obj\Debug\04.PrintADeckOfFiftyTwoCards.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\04.PrintADeckOfFiftyTwoCards\obj\Debug\04.PrintADeckOfFiftyTwoCards.pdb

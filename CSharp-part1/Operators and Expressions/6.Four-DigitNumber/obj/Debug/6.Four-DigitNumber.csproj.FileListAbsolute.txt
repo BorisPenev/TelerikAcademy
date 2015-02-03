@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\6.Four-DigitNumber\bin\Debug\6.Four-DigitNumber.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\6.Four-DigitNumber\bin\Debug\6.Four-DigitNumber.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\6.Four-DigitNumber\bin\Debug\6.Four-DigitNumber.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\6.Four-DigitNumber\obj\Debug\6.Four-DigitNumber.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\6.Four-DigitNumber\obj\Debug\6.Four-DigitNumber.pdb

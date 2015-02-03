@@ -1,0 +1,6 @@
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\1. DeclareVariables\bin\Debug\_1.DeclareVariables.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\1. DeclareVariables\bin\Debug\_1.DeclareVariables.exe
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\1. DeclareVariables\bin\Debug\_1.DeclareVariables.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\1. DeclareVariables\obj\Debug\1. DeclareVariables.csprojResolveAssemblyReference.cache
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\1. DeclareVariables\obj\Debug\_1.DeclareVariables.exe
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\1. DeclareVariables\obj\Debug\_1.DeclareVariables.pdb

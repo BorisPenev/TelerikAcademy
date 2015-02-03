@@ -1,0 +1,6 @@
+F:\MS_VS_projects_CShar\CSharp-part1\Conditional Statements\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\Conditional Statements\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Conditional Statements\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Conditional Statements\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.csprojResolveAssemblyReference.cache
+F:\MS_VS_projects_CShar\CSharp-part1\Conditional Statements\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Conditional Statements\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.pdb

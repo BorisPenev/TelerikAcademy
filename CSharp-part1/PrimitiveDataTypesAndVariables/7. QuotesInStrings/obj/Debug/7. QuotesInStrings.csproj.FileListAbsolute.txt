@@ -1,0 +1,6 @@
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\7. QuotesInStrings\bin\Debug\_7.QuotesInStrings.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\7. QuotesInStrings\bin\Debug\_7.QuotesInStrings.exe
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\7. QuotesInStrings\bin\Debug\_7.QuotesInStrings.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\7. QuotesInStrings\obj\Debug\7. QuotesInStrings.csprojResolveAssemblyReference.cache
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\7. QuotesInStrings\obj\Debug\_7.QuotesInStrings.exe
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\7. QuotesInStrings\obj\Debug\_7.QuotesInStrings.pdb

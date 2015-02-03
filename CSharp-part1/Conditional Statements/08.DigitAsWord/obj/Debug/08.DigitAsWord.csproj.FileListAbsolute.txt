@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\Conditional Statements\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\Conditional Statements\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Conditional Statements\08.DigitAsWord\bin\Debug\08.DigitAsWord.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Conditional Statements\08.DigitAsWord\obj\Debug\08.DigitAsWord.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Conditional Statements\08.DigitAsWord\obj\Debug\08.DigitAsWord.pdb

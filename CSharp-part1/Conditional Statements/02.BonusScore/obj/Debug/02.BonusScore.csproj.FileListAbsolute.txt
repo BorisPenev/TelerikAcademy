@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\Conditional Statements\02.BonusScore\bin\Debug\02.BonusScore.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\Conditional Statements\02.BonusScore\bin\Debug\02.BonusScore.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Conditional Statements\02.BonusScore\bin\Debug\02.BonusScore.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Conditional Statements\02.BonusScore\obj\Debug\02.BonusScore.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Conditional Statements\02.BonusScore\obj\Debug\02.BonusScore.pdb

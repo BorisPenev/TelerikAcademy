@@ -1,0 +1,8 @@
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\10.PointInsideCircleAndOutsideOfRectangle\bin\Debug\10.PointInsideCircleAndOutsideOfRectangle.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\10.PointInsideCircleAndOutsideOfRectangle\bin\Debug\10.PointInsideCircleAndOutsideOfRectangle.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\10.PointInsideCircleAndOutsideOfRectangle\bin\Debug\10.PointInsideCircleAndOutsideOfRectangle.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\10.PointInsideCircleAndOutsideOfRectangle\bin\Debug\7.PointInACircle.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\10.PointInsideCircleAndOutsideOfRectangle\bin\Debug\7.PointInACircle.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\10.PointInsideCircleAndOutsideOfRectangle\obj\Debug\10.PointInsideCircleAndOutsideOfRectangle.csprojResolveAssemblyReference.cache
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\10.PointInsideCircleAndOutsideOfRectangle\obj\Debug\10.PointInsideCircleAndOutsideOfRectangle.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\10.PointInsideCircleAndOutsideOfRectangle\obj\Debug\10.PointInsideCircleAndOutsideOfRectangle.pdb

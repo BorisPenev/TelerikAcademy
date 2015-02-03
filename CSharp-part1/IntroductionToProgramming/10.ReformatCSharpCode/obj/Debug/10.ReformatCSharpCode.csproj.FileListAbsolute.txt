@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.exe
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.pdb

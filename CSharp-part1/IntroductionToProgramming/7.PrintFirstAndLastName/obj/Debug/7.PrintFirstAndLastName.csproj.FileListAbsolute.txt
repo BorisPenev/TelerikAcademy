@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\7.PrintFirstAndLastName\bin\Debug\7.PrintFirstAndLastName.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\7.PrintFirstAndLastName\bin\Debug\7.PrintFirstAndLastName.exe
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\7.PrintFirstAndLastName\bin\Debug\7.PrintFirstAndLastName.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\7.PrintFirstAndLastName\obj\Debug\7.PrintFirstAndLastName.exe
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\7.PrintFirstAndLastName\obj\Debug\7.PrintFirstAndLastName.pdb

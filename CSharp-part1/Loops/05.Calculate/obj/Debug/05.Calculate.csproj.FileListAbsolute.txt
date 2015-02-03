@@ -1,0 +1,6 @@
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\05.Calculate\bin\Debug\05.Calculate.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\05.Calculate\obj\Debug\05.Calculate.csprojResolveAssemblyReference.cache
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\05.Calculate\bin\Debug\05.Calculate.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\05.Calculate\bin\Debug\05.Calculate.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\05.Calculate\obj\Debug\05.Calculate.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\05.Calculate\obj\Debug\05.Calculate.pdb

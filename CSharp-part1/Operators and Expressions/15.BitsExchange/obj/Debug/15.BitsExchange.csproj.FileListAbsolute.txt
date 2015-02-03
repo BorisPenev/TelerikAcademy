@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\15.BitsExchange\bin\Debug\15.BitsExchange.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\15.BitsExchange\bin\Debug\15.BitsExchange.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\15.BitsExchange\bin\Debug\15.BitsExchange.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\15.BitsExchange\obj\Debug\15.BitsExchange.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\15.BitsExchange\obj\Debug\15.BitsExchange.pdb

@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\9.ExchangeVariableValues\bin\Debug\9.ExchangeVariableValues.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\9.ExchangeVariableValues\bin\Debug\9.ExchangeVariableValues.exe
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\9.ExchangeVariableValues\bin\Debug\9.ExchangeVariableValues.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\9.ExchangeVariableValues\obj\Debug\9.ExchangeVariableValues.exe
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\9.ExchangeVariableValues\obj\Debug\9.ExchangeVariableValues.pdb

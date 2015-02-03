@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\5.IsThirdDigitSeven\bin\Debug\5.IsThirdDigitSeven.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\5.IsThirdDigitSeven\bin\Debug\5.IsThirdDigitSeven.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\5.IsThirdDigitSeven\bin\Debug\5.IsThirdDigitSeven.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\5.IsThirdDigitSeven\obj\Debug\5.IsThirdDigitSeven.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\5.IsThirdDigitSeven\obj\Debug\5.IsThirdDigitSeven.pdb

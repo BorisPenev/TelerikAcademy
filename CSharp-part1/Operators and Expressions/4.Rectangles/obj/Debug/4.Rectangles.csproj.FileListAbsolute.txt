@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\4.Rectangles\bin\Debug\4.Rectangles.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\4.Rectangles\bin\Debug\4.Rectangles.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\4.Rectangles\bin\Debug\4.Rectangles.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\4.Rectangles\obj\Debug\4.Rectangles.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Operators and Expressions\4.Rectangles\obj\Debug\4.Rectangles.pdb

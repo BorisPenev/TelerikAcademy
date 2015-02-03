@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\3.VariableInHexadecimalFormat\bin\Debug\3.VariableInHexadecimalFormat.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\3.VariableInHexadecimalFormat\bin\Debug\3.VariableInHexadecimalFormat.exe
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\3.VariableInHexadecimalFormat\bin\Debug\3.VariableInHexadecimalFormat.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\3.VariableInHexadecimalFormat\obj\Debug\3.VariableInHexadecimalFormat.exe
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\3.VariableInHexadecimalFormat\obj\Debug\3.VariableInHexadecimalFormat.pdb

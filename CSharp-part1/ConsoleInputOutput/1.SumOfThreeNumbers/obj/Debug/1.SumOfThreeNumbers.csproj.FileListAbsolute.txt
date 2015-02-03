@@ -1,0 +1,6 @@
+F:\MS_VS_projects_CShar\CSharp-part1\ConsoleInputOutput\1.SumOfThreeNumbers\bin\Debug\1.SumOfThreeNumbers.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\ConsoleInputOutput\1.SumOfThreeNumbers\bin\Debug\1.SumOfThreeNumbers.exe
+F:\MS_VS_projects_CShar\CSharp-part1\ConsoleInputOutput\1.SumOfThreeNumbers\bin\Debug\1.SumOfThreeNumbers.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\ConsoleInputOutput\1.SumOfThreeNumbers\obj\Debug\1.SumOfThreeNumbers.csprojResolveAssemblyReference.cache
+F:\MS_VS_projects_CShar\CSharp-part1\ConsoleInputOutput\1.SumOfThreeNumbers\obj\Debug\1.SumOfThreeNumbers.exe
+F:\MS_VS_projects_CShar\CSharp-part1\ConsoleInputOutput\1.SumOfThreeNumbers\obj\Debug\1.SumOfThreeNumbers.pdb

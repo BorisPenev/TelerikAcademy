@@ -1,0 +1,6 @@
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\07.CalculateNumberOfCombinations\bin\Debug\07.CalculateNumberOfCombinations.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\07.CalculateNumberOfCombinations\bin\Debug\07.CalculateNumberOfCombinations.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\07.CalculateNumberOfCombinations\bin\Debug\07.CalculateNumberOfCombinations.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\07.CalculateNumberOfCombinations\obj\Debug\07.CalculateNumberOfCombinations.csprojResolveAssemblyReference.cache
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\07.CalculateNumberOfCombinations\obj\Debug\07.CalculateNumberOfCombinations.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\07.CalculateNumberOfCombinations\obj\Debug\07.CalculateNumberOfCombinations.pdb

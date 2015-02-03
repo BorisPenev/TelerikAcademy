@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\10.EmployeeData\bin\Debug\10.EmployeeData.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\10.EmployeeData\bin\Debug\10.EmployeeData.exe
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\10.EmployeeData\bin\Debug\10.EmployeeData.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\10.EmployeeData\obj\Debug\10.EmployeeData.pdb

@@ -1,0 +1,1 @@
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\13.BinaryToDecimalNumber\bin\Debug\13.BinaryToDecimalNumber.exe.config

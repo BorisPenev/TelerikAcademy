@@ -1,0 +1,6 @@
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\8.IsoscelesTriangle\bin\Debug\8.IsoscelesTriangle.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\8.IsoscelesTriangle\bin\Debug\8.IsoscelesTriangle.exe
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\8.IsoscelesTriangle\bin\Debug\8.IsoscelesTriangle.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\8.IsoscelesTriangle\obj\Debug\8.IsoscelesTriangle.csprojResolveAssemblyReference.cache
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\8.IsoscelesTriangle\obj\Debug\8.IsoscelesTriangle.exe
+F:\MS_VS_projects_CShar\CSharp-part1\PrimitiveDataTypesAndVariables\8.IsoscelesTriangle\obj\Debug\8.IsoscelesTriangle.pdb

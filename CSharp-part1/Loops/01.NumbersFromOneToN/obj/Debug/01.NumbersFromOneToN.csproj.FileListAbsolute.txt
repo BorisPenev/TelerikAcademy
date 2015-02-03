@@ -1,0 +1,6 @@
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\01.NumbersFromOneToN\bin\Debug\01.NumbersFromOneToN.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\01.NumbersFromOneToN\bin\Debug\01.NumbersFromOneToN.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\01.NumbersFromOneToN\bin\Debug\01.NumbersFromOneToN.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\01.NumbersFromOneToN\obj\Debug\01.NumbersFromOneToN.csprojResolveAssemblyReference.cache
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\01.NumbersFromOneToN\obj\Debug\01.NumbersFromOneToN.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\01.NumbersFromOneToN\obj\Debug\01.NumbersFromOneToN.pdb

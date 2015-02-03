@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\02.NumbersNotDivisibleByThreeAndSeven\bin\Debug\02.NumbersNotDivisibleByThreeAndSeven.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\02.NumbersNotDivisibleByThreeAndSeven\bin\Debug\02.NumbersNotDivisibleByThreeAndSeven.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\02.NumbersNotDivisibleByThreeAndSeven\bin\Debug\02.NumbersNotDivisibleByThreeAndSeven.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\02.NumbersNotDivisibleByThreeAndSeven\obj\Debug\02.NumbersNotDivisibleByThreeAndSeven.exe
+F:\MS_VS_projects_CShar\CSharp-part1\Loops\02.NumbersNotDivisibleByThreeAndSeven\obj\Debug\02.NumbersNotDivisibleByThreeAndSeven.pdb

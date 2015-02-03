@@ -1,0 +1,5 @@
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\9.PrintASequence\bin\Debug\9.PrintASequence.exe.config
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\9.PrintASequence\bin\Debug\9.PrintASequence.exe
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\9.PrintASequence\bin\Debug\9.PrintASequence.pdb
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\9.PrintASequence\obj\Debug\9.PrintASequence.exe
+F:\MS_VS_projects_CShar\CSharp-part1\IntroductionToProgramming\9.PrintASequence\obj\Debug\9.PrintASequence.pdb
