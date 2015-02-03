@@ -1,0 +1,1 @@
+The description about the exam problems can be found here: http://bgcoder.com/Contests/205/Telerik-Academy-Exam-1-3-February-2015-Evening
