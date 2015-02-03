@@ -1,0 +1,8 @@
+.NET Framework is an application development framework - it contains numerous libraries containing a range of functionality.
+
+C# is a strong Object Oriented programming language that is mostly built on the .NET framework.
+
+Source URL : Relationship between C#, .NET, ASP, ASP.NET etc (http://programmers.stackexchange.com/questions/44810/relationship-between-c-net-asp-asp-net-etc)
+
+You can check the below link for more details
+What is the difference between C# and .NET? (http://stackoverflow.com/questions/2724864/what-is-the-difference-between-c-sharp-and-net)
